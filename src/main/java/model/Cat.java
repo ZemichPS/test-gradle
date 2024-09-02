@@ -1,0 +1,6 @@
+package model;
+
+public class Cat {
+    String name;
+    int age;
+}
